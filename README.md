@@ -3,6 +3,8 @@ Nonparametric Kernel-Based Estimation and Robust Bias-Corrected Inference Use kd
 
 Nonparametric Robust Estimation and Inference Methods using Local Polynomial Regression and Kernel Density Estimation Use kdrobust And lprobust And lpbwselect With (In) R Software
 
+https://www.youtube.com/watch?v=QEkcA_60hu4
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
